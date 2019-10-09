@@ -20,4 +20,4 @@ if ans == 1:
     print("Yes, It's a PALINDROME") 
     
 else: 
-    `print("Not PALINDROME")
+    print("Not PALINDROME")

@@ -22,7 +22,7 @@ def SieveOfEratosthenes(n):
 	# Print all prime numbers 
 	for p in range(n + 1): 
 		if prime[p]: 
-			print p, 
+			print p 
 
 # driver program 
 if __name__=='__main__': 
